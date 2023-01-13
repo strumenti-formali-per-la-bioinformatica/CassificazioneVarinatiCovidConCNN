@@ -9,5 +9,18 @@ Quello che verrà fatto è usare delle tecniche capaci di trasformare tali seque
 Dopo il trattamento dei dati, proponendo prima una classificazione basata su serie temporali che prendono in input delle serie(in questo caso i nostri segnali creati prima) e successivamente adoperiamo delle trasformazioni sui segnali per trasformarli in immagini per darle in pasto a un modello di reti neurali convoluzionali per il riconoscimento di immagini.
 Una volta calcolati i risultati di entrambi i modelli quello che andremo a fare e lavorare sulla trasformazione delle immagini, infatti come vedremo è passibile applicare ai segnali trasformati in immagine dei parametri aggiuntivi, come filtri di colori che caratterizzano e aggiungono dettagli alla rappresentazione di immagine del segnale in modo da evidenziare più caratteristiche nell'immagine cosi da poter valutare se il nostro modello migliorare/ peggiorare in base a queste aggiunte di dettaglio e trarne delle conclusioni finali.
 
-Per implementare il progetto su google colab, le libreria con la versione corretta sono già presenti nel file del progetto.ipynp.
+#Passi per utilizzare il progetto
+
+Utilizzare il progetto su google colab è ecessario intallare le seguenti librerie:
+{% filename %}
+
+pip install fastcore==1.4.1
+
+pip install tsai==0.3.0
+
+pip install fastai==2.5.5
+
+pip install fastai2==0.0.30{% endfilename %}
+
+su google colab, le libreria con la versione corretta sono già presenti nel file del progetto.ipynp.
 Mentre per implementarlo sul pc occore scaricare tali libreria con quella versione.
