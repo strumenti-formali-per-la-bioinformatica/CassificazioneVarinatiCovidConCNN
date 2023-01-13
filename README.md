@@ -11,6 +11,28 @@ Una volta calcolati i risultati di entrambi i modelli quello che andremo a fare 
 
 # Passi per utilizzare il progetto
 
+## Prerequisiti
+
+In caso non si usa google colab per l'utilizzo della gpu, è necessario per attiarla sul proprio pc:
+
+Installare cuda versione 11.16
+
+Successivamente per collegare la gpu con pythorc (su cui si basa il codice) è necessario scarivere nel terminare:
+
+```cmd
+
+pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
+
+```
+
+In alternativa a chi usa l'ambiente di anaconda:
+
+```cmd
+
+conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia
+
+```cmd
+
 Per Utilizzare il progetto su google colab è necessario intallare le seguenti librerie:
 
 ```cmd
