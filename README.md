@@ -1,4 +1,4 @@
-# CassificazioneVarinatiCovidConCNN
+# ClassificazioneVariantiCovidConCNN
 
 ## Abstact
  Negli ultimi anni la **sindrome respiratoria acuta grave (SARS-CoV-2)** si è manifestata in maniera spropositata, portando in condizioni gravissime, e in alcuni casi anche la morte alle persone che venivano a contatto, ci si è trovati a imbattere in un nuovo virus che ha preso il nome COVID-19 dove per 19 si intende l'anno della scoperta, portando in breve tempo a una pandemia globale dove siamo stati costretti a stare quasi un anno senza uscire per evitare contatti e trasmissione del virus. 
