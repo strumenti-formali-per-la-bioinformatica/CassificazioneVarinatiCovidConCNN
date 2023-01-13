@@ -11,8 +11,7 @@ Una volta calcolati i risultati di entrambi i modelli quello che andremo a fare 
 
 #Passi per utilizzare il progetto
 
-Utilizzare il progetto su google colab è ecessario intallare le seguenti librerie:
-{% filename %}
+Per Utilizzare il progetto su google colab è ecessario intallare le seguenti librerie:
 
 pip install fastcore==1.4.1
 
@@ -20,7 +19,7 @@ pip install tsai==0.3.0
 
 pip install fastai==2.5.5
 
-pip install fastai2==0.0.30{% endfilename %}
+pip install fastai2==0.0.30
 
-su google colab, le libreria con la versione corretta sono già presenti nel file del progetto.ipynp.
-Mentre per implementarlo sul pc occore scaricare tali libreria con quella versione.
+Le libreria con la versione corretta sono già presenti nel file del progetto.ipynp.
+Mentre per implementarlo sul pc occore scaricare tali libreria specificate sopra.
