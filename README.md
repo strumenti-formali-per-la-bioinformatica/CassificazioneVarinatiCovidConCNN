@@ -11,7 +11,7 @@ Una volta calcolati i risultati di entrambi i modelli quello che andremo a fare 
 
 # Passi per utilizzare il progetto
 
-Per Utilizzare il progetto su google colab è ecessario intallare le seguenti librerie:
+Per Utilizzare il progetto su google colab è necessario intallare le seguenti librerie:
 
 ```cmd
 
@@ -25,5 +25,7 @@ pip install fastai2==0.0.30
 
 ```
 
-Le libreria con la versione corretta sono già presenti nel file del progetto.ipynp.
+Una volta fatto ciò è possibile usare un qualsiasi compilatore (visual studio, google colab, notebook jupyter) per eseguire il codie.
+
+Le libreria con la versione corretta sono già presenti anche nel file del progetto.ipynp.
 Mentre per implementarlo sul pc occore scaricare tali libreria specificate sopra.
