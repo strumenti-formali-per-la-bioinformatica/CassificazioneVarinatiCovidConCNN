@@ -9,7 +9,7 @@ Quello che verrà fatto è usare delle tecniche capaci di trasformare tali seque
 Dopo il trattamento dei dati, proponendo prima una classificazione basata su serie temporali che prendono in input delle serie(in questo caso i nostri segnali creati prima) e successivamente adoperiamo delle trasformazioni sui segnali per trasformarli in immagini per darle in pasto a un modello di reti neurali convoluzionali per il riconoscimento di immagini.
 Una volta calcolati i risultati di entrambi i modelli quello che andremo a fare e lavorare sulla trasformazione delle immagini, infatti come vedremo è passibile applicare ai segnali trasformati in immagine dei parametri aggiuntivi, come filtri di colori che caratterizzano e aggiungono dettagli alla rappresentazione di immagine del segnale in modo da evidenziare più caratteristiche nell'immagine cosi da poter valutare se il nostro modello migliorare/ peggiorare in base a queste aggiunte di dettaglio e trarne delle conclusioni finali.
 
-#Passi per utilizzare il progetto
+# Passi per utilizzare il progetto
 
 Per Utilizzare il progetto su google colab è ecessario intallare le seguenti librerie:
 
