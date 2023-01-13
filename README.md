@@ -32,8 +32,8 @@ In alternativa a chi usa l'ambiente di anaconda:
 conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia
 
 ```
-
-Per Utilizzare il progetto su google colab è necessario intallare le seguenti librerie:
+## Installazioni
+Per Utilizzare il progetto è necessario intallare le seguenti librerie:
 
 ```cmd
 
