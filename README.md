@@ -15,7 +15,7 @@ Una volta calcolati i risultati di entrambi i modelli quello che andremo a fare 
 
 In caso non si usa google colab per l'utilizzo della gpu, è necessario per attiarla sul proprio pc:
 
-Installare cuda versione 11.16
+Installare cuda versione 11.6
 
 Successivamente per collegare la gpu con pythorc (su cui si basa il codice) è necessario scarivere nel terminare:
 
