@@ -17,7 +17,13 @@ In caso non si usa google colab per l'utilizzo della gpu, è necessario per atti
 
 Prima cosa installare cuda versione 11.6
 
-Successivamente per collegare cuda con pytorch (su cui si basa il codice) è necessario scaricare nel terminare:
+Successivamente per collegare cuda con pytorch (su cui si basa il codice) è necessario eseguire da terminare queste due linee di comando:
+
+```cmd
+
+conda installa cuda --channel nvidia/label/cuda-11.6.0
+
+```
 
 ```cmd
 
