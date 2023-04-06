@@ -13,11 +13,11 @@ Una volta calcolati i risultati di entrambi i modelli quello che andremo a fare 
 
 ## Prerequisiti
 
-In caso non si usa google colab per l'utilizzo della gpu, è necessario per attiarla sul proprio pc:
+In caso non si usa google colab per l'utilizzo della gpu, è necessario per attivarla sul proprio pc:
 
-Installare cuda versione 11.6
+Prima cosa installare cuda versione 11.6
 
-Successivamente per collegare la gpu con pytorch (su cui si basa il codice) è necessario scaricare nel terminare:
+Successivamente per collegare cuda con pytorch (su cui si basa il codice) è necessario scaricare nel terminare:
 
 ```cmd
 
