@@ -21,7 +21,7 @@ Successivamente per collegare cuda con pytorch (su cui si basa il codice) è nec
 
 ```cmd
 
-conda installa cuda --channel nvidia/label/cuda-11.6.0
+conda install cuda --channel nvidia/label/cuda-11.6.0
 
 ```
 
