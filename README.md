@@ -17,7 +17,7 @@ In caso non si usa google colab per l'utilizzo della gpu, è necessario per atti
 
 Installare cuda versione 11.6
 
-Successivamente per collegare la gpu con pythorc (su cui si basa il codice) è necessario scarivere nel terminare:
+Successivamente per collegare la gpu con pytorch (su cui si basa il codice) è necessario scaricare nel terminare:
 
 ```cmd
 
